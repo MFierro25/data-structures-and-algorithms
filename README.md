@@ -21,3 +21,4 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 [Array Reverse](https://github.com/MFierro25/data-structures-and-algorithms/blob/main/python/array_reverse/README.md)
+[insert Array Shift](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_insert_shift)
