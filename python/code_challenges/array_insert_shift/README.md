@@ -4,7 +4,7 @@ Write a function which takes in an array and a value to be added. Without utiliz
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-[Insert Shift Array Diagram](insert_shift.png)
+![Insert Shift Array Diagram](insert_shift.png)
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
 
