@@ -22,5 +22,5 @@ To run your tests
 
 [Array Reverse](https://github.com/MFierro25/data-structures-and-algorithms/blob/main/python/array_reverse/README.md) <br>
 [insert Array Shift](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_insert_shift) <br>
-[Binary Search Array](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_binary_search)
+[Binary Search Array](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_binary_search) <br>
 [linked list](https://github.com/MFierro25/data-structures-and-algorithms/compare/linked-list?expand=1)
