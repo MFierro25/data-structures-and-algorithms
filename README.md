@@ -21,6 +21,7 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 [Array Reverse](https://github.com/MFierro25/data-structures-and-algorithms/blob/main/python/array_reverse/README.md) <br>
-[insert Array Shift](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_insert_shift) <br>
+[Insert Array Shift](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_insert_shift) <br>
 [Binary Search Array](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_binary_search) <br>
-[linked list](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/linked-list)
+[Linked-List](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/linked-list) <br>
+[Linked-List Insertions](https://github.com/MFierro25/data-structures-and-algorithms/blob/main/python/code_challenges/linked-list-insertions/README.md)
