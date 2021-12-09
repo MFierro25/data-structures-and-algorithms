@@ -51,20 +51,6 @@ class LinkedList:
         return cur.value
         
         
-        
-    #     total_len = self.length_node()
-        
-    #     current = self.head
-    #     while current:
-    #         if total_len == k:
-    #             print(current.value)
-    #             return current
-    #         total_len -= 1
-    #         current = current.next
-    #     # checks to see if the length is valid
-    #     if current is None:
-    #         return
-        
         # def __str__(self):
     #     current = self.head
     #     output = ""
