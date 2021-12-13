@@ -24,6 +24,6 @@ To run your tests
 [Insert Array Shift](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_insert_shift) <br>
 [Binary Search Array](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/array_binary_search) <br>
 [Linked-List](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/linked-list) <br>
-[Linked-List Insertions](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/linked-list-insertions)
-[kth From End](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/linked-list-kth)
-[Linked-List Zip](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/linked-list-zip)
+[Linked-List Insertions](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/linked-list-insertions) <br>
+[kth From End](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/linked-list-kth) <Br>
+[List List Zip](https://github.com/MFierro25/data-structures-and-algorithms/tree/linked-list-zip/python/code_challenges/linked-list-zip)
