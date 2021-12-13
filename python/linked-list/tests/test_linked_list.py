@@ -37,7 +37,7 @@ def list_true():
 
 # Will return false when searching for a value in the linked list that does not exist
 
-def list_true():
+def list_false():
     lst = LinkedList()
     lst.insert('money')
     actual = lst.includes('house')
