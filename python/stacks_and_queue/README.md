@@ -8,7 +8,7 @@ Using a Linked List as the underlying data storage mechanism, implement both a S
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-it was a straight forward approach. inserting one time and checking if that value is there or not. Also understanding the difference that stacks always refer to the top node and in queues they refer to the first item added, LIFO vs FIFO.
+it was a straight forward approach. inserting one time and checking if that value is there or not. Also understanding the difference that stacks always refer to the top node and in queues they refer to the first item added, LIFO vs FIFO. <br>
 Time: O(1)
 Space: O(1)
 ## API
