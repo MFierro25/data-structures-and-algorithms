@@ -1,4 +1,4 @@
-from linked_list_kth.linked_list_kth import LinkedList
+from code_challenges.linked_list_kth.linked_list_kth import LinkedList
 import pytest
 
 def test_node_inserts_to_head():

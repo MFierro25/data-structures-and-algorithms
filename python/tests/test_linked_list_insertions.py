@@ -1,5 +1,5 @@
 
-from linked_list_insertions.linked_list_insertions import LinkedList
+from code_challenges.linked_list_insertions.linked_list_insertions import LinkedList
 
 
 ## succesfully insert node to empty list

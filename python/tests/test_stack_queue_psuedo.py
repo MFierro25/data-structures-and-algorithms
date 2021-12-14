@@ -1,4 +1,4 @@
-from stack_queue_psuedo.stack_queue_psuedo import PsuedoQueue
+from code_challenges.stack_queue_psuedo.stack_queue_psuedo import PsuedoQueue
 from stacks_and_queue.error import EmptyError
 import pytest
 
