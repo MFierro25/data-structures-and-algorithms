@@ -4,7 +4,7 @@ create a PsuedoQueue class that uses proper enqueue and dequeue utilizing two st
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![Stack and Queue Psuedo](assets/stack-queue-pseudo.png)
+![Stack and Queue Psuedo](https://github.com/MFierro25/data-structures-and-algorithms/blob/926479a79bdaa3589dcb374327b0f5adb0300e54/python/assets/stack-queue-pseudo.png)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
