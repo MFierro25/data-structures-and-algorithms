@@ -28,3 +28,4 @@ To run your tests
 [kth From End](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/linked-list-kth) <Br>
 [List List Zip](https://github.com/MFierro25/data-structures-and-algorithms/tree/linked-list-zip/python/code_challenges/linked-list-zip) <br>
 [Stacks and Queues](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/stacks_and_queue)
+[PsuedoQueue](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/stack_queue_psuedo)
