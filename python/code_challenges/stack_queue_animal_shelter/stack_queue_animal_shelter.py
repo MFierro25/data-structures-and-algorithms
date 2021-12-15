@@ -34,6 +34,7 @@ class AnimalShelter:
             
         elif len(self.out_stack) == 0 and len(self.in_stack) > 0:
             while len(self.in_stack):
+                pass
         #         temp = self.in_stack.pop()
         #         self.out_stack.push(temp)
                 
