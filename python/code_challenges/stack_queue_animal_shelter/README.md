@@ -8,6 +8,7 @@ enqueue, and dequeue taking in animal and dequeue either dog or cat.
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+Followed similiar approach to previous having two stacks inside the queue. one dealing with everything coming in and the second dealing with everything about to be pushed out.
 
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
