@@ -29,5 +29,5 @@ To run your tests
 [List List Zip](https://github.com/MFierro25/data-structures-and-algorithms/tree/linked-list-zip/python/code_challenges/linked-list-zip) <br>
 [Stacks and Queues](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/stacks_and_queue) <br>
 [PsuedoQueue](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/stack_queue_psuedo) <br>
-[Stack Animal Shelter](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/stack_queue_animal_shelter)
-[Trees](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/trees)
+[Stack Animal Shelter](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/stack_queue_animal_shelter) <br>
+[Trees](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/trees)<br>
