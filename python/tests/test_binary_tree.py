@@ -3,8 +3,8 @@ from code_challenges.trees.binary_tree import BinaryTree
 
 # Can successfully instantiate an empty tree
 def test_binary_tree():
-    tree = BinaryTree()
-    assert True
+    assert BinaryTree()
+    
     
 # Can successfully instantiate a tree with a single root node
 def test_single_node():
