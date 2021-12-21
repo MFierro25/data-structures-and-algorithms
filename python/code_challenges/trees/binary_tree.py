@@ -1,4 +1,5 @@
 from code_challenges.trees.node import Node
+from code_challenges.trees.error import EmptyError
 
 class BinaryTree: 
     def __init__(self, root = None):
@@ -57,3 +58,24 @@ class BinaryTree:
         walk(self.root)
         
         return post_list
+    
+    def tree_max(self):
+        '''
+        returns max value
+        '''
+        if not self.root:
+            raise EmptyError('List is empty')
+        
+        def walk(root, cur_max):
+            if root is None:
+                return cur_max
+            
+            if root.value > cur_max:
+                cur_max = root.value
+                
+            cur_max = walk(root.left, cur_max)
+            return walk(root.right, cur_max)
+        
+        if self.root:
+            return walk(self.root, self.root.value)
+             
