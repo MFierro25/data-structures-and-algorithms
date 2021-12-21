@@ -50,10 +50,11 @@ Returns: number
 
 Find the maximum value stored in the tree.
 
+[To working code](https://github.com/MFierro25/data-structures-and-algorithms/blob/main/python/code_challenges/trees/binary_tree.py)
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![Tree Max Diagram](assets/tree_max.png)
+![Tree Max Diagram](https://github.com/MFierro25/data-structures-and-algorithms/blob/0b4ced3edde96b9446dbb5ef1abe5b1e4386a095/python/assets/tree_max.png)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
