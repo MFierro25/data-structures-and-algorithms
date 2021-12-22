@@ -6,9 +6,11 @@ Arguments: tree
 
 Return: list of all values in the tree, in the order they were encountered
 
+[Code](python/code_challenges/trees/tree_breadth_first/tree_breadth_first.py)
+
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![Tree Breadth First](/home/mfierro/projects/courses/code401/data-structures-and-algorithms/python/assets/tree-breadth-first.png)
+![Tree Breadth First](https://github.com/MFierro25/data-structures-and-algorithms/blob/b7787a5d2e40cce1c42743755ddb340e79abb934/python/assets/tree-breadth-first.png)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
