@@ -31,5 +31,5 @@ To run your tests
 [PsuedoQueue](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/stack_queue_psuedo) <br>
 [Stack Animal Shelter](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/stack_queue_animal_shelter) <br>
 [Trees](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/trees)<br>
-[Tree Breadth First](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/trees/tree_breadth_first)
-[Tree "Fizzbuzz"](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/tree_fizz_buzz)  
+[Tree Breadth First](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/trees/tree_breadth_first) <br>
+[Tree "Fizzbuzz"](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/tree_fizz_buzz) <br>
