@@ -10,13 +10,11 @@ def breadth_first(tree):
     
     queue.enqueue(tree.root)
     
-    while len(queue) > 0:
+    while queue.peek():
         self = queue.dequeue()
         
-        if self.left:
-            self.enqueue(self.left)
-        if self.right:
-            self.enqueue(self.right)
+        queue.enqueue(self.left)      
+        queue.enqueue(self.right)
             
         return_list.append(self.value)
         
