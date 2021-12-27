@@ -2,9 +2,11 @@
 <!-- Description of the challenge -->
 Write methods for a Linked list. These methods include, Append, Insert before and insert after. Test each method that it is working properly
 
+[Code here](https://github.com/MFierro25/data-structures-and-algorithms/blob/main/python/code_challenges/linked_list_insertions/linked_list_insertions.py)
+
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![Linked List Insertion](/home/mfierro/projects/courses/code401/data-structures-and-algorithms/python/assets/linked-list-insertion.png)
+![Linked List Insertion](https://github.com/MFierro25/data-structures-and-algorithms/blob/b193888b6dec8eb0a608f0ff38b10b12e23620d5/python/assets/linked-list-insertion.png)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
