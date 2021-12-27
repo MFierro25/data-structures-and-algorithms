@@ -6,7 +6,7 @@ Arguments: tree
 
 Return: list of all values in the tree, in the order they were encountered
 
-[Code](python/code_challenges/trees/tree_breadth_first/tree_breadth_first.py)
+[Code](https://github.com/MFierro25/data-structures-and-algorithms/blob/57bcbe0b03b53a6ae4d1beff1af1f5f17ef3835c/python/code_challenges/trees/tree_breadth_first/tree_breadth_first.py)
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
