@@ -2,10 +2,10 @@
 <!-- Short summary or background information -->
 A Stack is a container of objects inserted and removed from the top or last in first out. A Queue is a container of objects that are inserted and removed according first-in first-out. 
 
-[Stack](python/stacks_and_queue/stacks.py)
-[Queue](python/stacks_and_queue/queue.py)
-[Test stack](python/tests/test_stack.py)
-[Test queue](python/tests/test_queue.py)
+[Stack](https://github.com/MFierro25/data-structures-and-algorithms/blob/b4cd88e8369ab402e08efe77a1c14e70a31b2164/python/stacks_and_queue/stacks.py) <br>
+[Queue](https://github.com/MFierro25/data-structures-and-algorithms/blob/b4cd88e8369ab402e08efe77a1c14e70a31b2164/python/stacks_and_queue/queue.py)  <br>
+[Test stack](https://github.com/MFierro25/data-structures-and-algorithms/blob/b4cd88e8369ab402e08efe77a1c14e70a31b2164/python/tests/test_stack.py)  <br>
+[Test queue](https://github.com/MFierro25/data-structures-and-algorithms/blob/b4cd88e8369ab402e08efe77a1c14e70a31b2164/python/tests/test_queue.py)  <br>
 
 ## Challenge
 <!-- Description of the challenge -->
@@ -13,7 +13,7 @@ Using a Linked List as the underlying data storage mechanism, implement both a S
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-![Stacks and Queue](assets/stacks_and_queues.png)
+![Stacks and Queue](https://github.com/MFierro25/data-structures-and-algorithms/blob/b4cd88e8369ab402e08efe77a1c14e70a31b2164/python/assets/stacks_and_queues.png)
 
 Time: O(1)
 Space: O(1)
