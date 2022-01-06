@@ -28,5 +28,5 @@ SPace: O(1)
 
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
-![Blog that explains the code](/python/code_challenges/insertion_sort/BLOG.md)
+![Blog that explains the code](/python/code_challenges/insertion_sort/BLOG.md) <br>
 ![Code](/python/code_challenges/insertion_sort/insertion_sort.py)
