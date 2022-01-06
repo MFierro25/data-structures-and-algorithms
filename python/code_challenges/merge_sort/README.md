@@ -15,6 +15,6 @@ space - O(n)
 
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
-![Blog post exdplaining code](/code_challenges/merge_sort/BLOG.md)
-![Code](/code_challenges/merge_sort/merge_sort.py)
-![tests](/tests/test_merge_sort.py)
+![Blog post exdplaining code](/code_challenges/merge_sort/BLOG.md) <br>
+![Code](/code_challenges/merge_sort/merge_sort.py) <br>
+![tests](/tests/test_merge_sort.py) <br>
