@@ -34,4 +34,5 @@ To run your tests
 [Tree Breadth First](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/trees/tree_breadth_first) <br>
 [Tree "Fizzbuzz"](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/tree_fizz_buzz) <br>
 [Insertion Sort Blog](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/insertion_sort) <br>
-[Merge Sort Blog](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/merge_sort)
+[Merge Sort Blog](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/merge_sort) <br>
+[Hashtables](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/hashtable)
