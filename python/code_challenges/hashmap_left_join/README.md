@@ -24,4 +24,4 @@ Time: O(n)
 ## Solution
 <!-- Embedded whiteboard image -->
 
-![Join Left](/code_challenges/hashmap_left_join/join_left.png)
+![Join Left](https://github.com/MFierro25/data-structures-and-algorithms/blob/f9e4d5303e96d881fa97712639c03d40c0f72a9e/python/code_challenges/hashmap_left_join/join_left.png)
