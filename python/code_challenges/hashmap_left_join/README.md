@@ -18,6 +18,10 @@ Return: The returned data structure that holds the results is up to you
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+Space: O(n) <br>
+Time: O(n)
 
 ## Solution
 <!-- Embedded whiteboard image -->
+
+![Join Left](/code_challenges/hashmap_left_join/join_left.png)

@@ -1,14 +1,14 @@
 def left_join(hash_left, hash_right):
     
-    return_hash = {}
+    return_hash = []
     
     for key, in hash_left:
-        return_hash.update(key)
-        return_hash.update(hash_left[key])
+        return_hash.append(key)
+        return_hash.append(hash_left[key])
         
         if key in hash_right:
-            return_hash.update(hash_right[key])
+            return_hash.append(hash_right[key])
         else:
-            return_hash.update(None)
+            return_hash.append(None)
             
-    return return_hash.keys()
+    return return_hash
