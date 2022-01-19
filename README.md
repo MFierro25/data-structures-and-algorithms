@@ -37,4 +37,5 @@ To run your tests
 [Merge Sort Blog](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/merge_sort) <br>
 [Hashtables](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/hashtable) <br>
 [tree intersection](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/tree_insertion) <br>
-[Left Join](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/hashmap_left_join)
+[Left Join](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/code_challenges/hashmap_left_join) <br>
+[Graph](https://github.com/MFierro25/data-structures-and-algorithms/tree/main/python/graph)
